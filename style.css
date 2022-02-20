@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#navBar{
+    display: flex;
+    height: 75px;
+    background-color: #fbbf24;
+    border-radius: 0px 14px;
+}
+.navPills{
+    display: flex;
+    margin-top: 19px;
+}
+.navHeader{
+    margin-left: 10px;
+    font-weight: bolder;
+    font-size: x-large;
+    margin-bottom: 3rem;
+    margin-top: 15px;
+    color: brown
+}
+.navPills{
+    margin-left: 405px;
+}
+.navLink{
+    border: 1px solid brown;
+    margin: 5px;
+    padding: 7px;
+    border-radius: 6px;
+    color: brown;
+}
+.imgHeader{
+    max-width: 350px;
+    display: block;
+    padding: 2rem;
+    margin: auto;
+   
+}
+
+.headerContent{
+    max-width: 660px;
+    margin: auto;
+    color: #b1610e;
+    margin-bottom: 10px;
+}
+.header-content-highlight{
+    color: brown;
+    font-family: 'Oooh Baby', cursive;
+}
+
+.bio{
+    height: 200px;
+   background-color:rgb(245, 239, 239) ;
+}
+.bio{
+    text-align: center;
+}
+.sectionHeader{
+    font-size: x-large;
+    font-weight: bolder;
+    padding-top: 7px;
+    color: rgb(116, 87, 9);
+}
+.centerContainer{
+    width: 586px;
+    margin: auto;
+    
+}
+p{
+    margin: 15px 0px;
+    font-size: 18px;
+    margin-bottom: -7px;
+    color: rgb(88, 59, 5);
+}
+.skills{
+    text-align: center;
+    height: 125px;
+}
+.skillCenter{
+    width: 586px;
+    margin: auto;
+    margin-top: 18px;
+}
+.projectsCenter{
+    width:500px;
+    margin: auto;
+    margin-top: 33px;
+}
+.projects{
+    text-align: center;
+    height: 129spx;
+background-color:rgb(245, 239, 239);
+}
